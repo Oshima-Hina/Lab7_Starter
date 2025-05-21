@@ -34,7 +34,7 @@ Navigation mode simulates a full page load from the start whild snapshot mode on
 
 -Properly size the images since they were larger than their displayed size
 
--<html> element does not have a [lang] attribute, and it should have one for accessibility.
+-\<html\> element does not have a [lang] attribute, and it should have one for accessibility.
 
 -Serve static assets with an efficient cache policy, since a long cache lifetime can speed up repeat visits to your page.
 
