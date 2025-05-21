@@ -1,6 +1,11 @@
+Name: Yilong Chen
+
+No partner this time.
+
+
 1) Where would you fit your automated tests in your Recipe project development pipeline? Select one of the following and explain why.
 
-[ x ] Within a Github action that runs whenever code is pushed 
+[x] Within a Github action that runs whenever code is pushed 
 
 Manually run them locally before pushing code
 
